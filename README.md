@@ -1,6 +1,6 @@
 # Angry-Birds-Copy
 Angry Birds Copy
-![](angryBirdsCopy1.png)
-![](angryBirdsCopy2.png)
-![](angryBirdsCopy3.png)
+![](angryBirdsClone1.png)
+![](angryBirdsClone2.png)
+![](angryBirdsClone3.png)
 
